@@ -63,3 +63,28 @@ a{
     height: 100vh;
 }
 /* popup section ===================================================================================== styling ends */
+
+
+/* Responsive ================================================================================== mediaquery starts */
+@media (max-width:1490px) {
+    .margin{
+        margin-left: 110px;
+    }
+}
+@media (max-width:1170px) {
+    .but{
+        width: 85%;
+    }
+    .margin{
+        margin-left: 80px;
+    }
+}
+@media (max-width:470px) {
+    .but{
+        width: 100%;
+    }
+    .margin{
+        margin-left: 20px;
+    }
+}
+/* Responsive ================================================================================== mediaquery starts */
