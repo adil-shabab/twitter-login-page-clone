@@ -88,3 +88,44 @@ a{
     }
 }
 /* Responsive ================================================================================== mediaquery starts */
+
+
+
+/* signup page =================================================== styling start */
+.back{
+    display: none;
+}
+.image{
+    width: 100%;
+    height: 100vh;
+}
+.twitter{
+    width: 75px;
+}
+#happening{
+    font-size: 50px;
+}
+.today{
+    font-size: 25px;
+}
+.button{
+    width: 100%;
+    transition: color 0.5s ease;
+}
+.google{
+    width: 30px;
+}
+.apple{
+    width: 42px;
+}
+.terms{
+    font-size: 14px;
+}
+.heading{
+    font-size: 18px;
+}
+.button:hover{
+    background-color: aliceblue;
+}
+
+/* signup page ====================================================== styling ends */
