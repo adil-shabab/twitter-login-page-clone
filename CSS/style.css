@@ -8,3 +8,58 @@ a{
     text-decoration: none;
 }
 /* global section ========================================== style end */
+
+
+/* popup section ===================================================================================== styling starts */
+.popup{
+    display: none;
+}
+.box{
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    width: 100%;
+    height: 600px;
+    border-radius: 15px;
+}
+.close-menu{
+    border: none !important;
+    background-color: white;
+    font-size: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.twitter-2{
+    width: 50px;
+    margin: 0 auto;
+}
+.google2{
+    width: 25px;
+}
+.apple2{
+    width: 35px;
+}
+.hr{
+    width: 50%;
+}
+.but{
+    width: 70%;
+    height: 44px;
+    transition: color 0.8s ease;
+}
+.but:hover{
+    background-color: aliceblue;
+}
+.margin{
+    margin-left: 150px;
+}
+.head{
+    font-size: 25px;
+}
+#bt{
+    height: 60px;
+}
+.none{
+    background: rgb(0, 0, 0, 0.2);
+    height: 100vh;
+}
+/* popup section ===================================================================================== styling ends */
