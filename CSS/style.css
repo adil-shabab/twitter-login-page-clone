@@ -7,6 +7,9 @@
 a{
     text-decoration: none;
 }
+ul,li{
+    list-style: none;
+}
 /* global section ========================================== style end */
 
 
